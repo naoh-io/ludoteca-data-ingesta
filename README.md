@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Ludoteca - Pipeline de Ingesta de Datos
 
 Contenedores de ingesta del proyecto **Ludoteca / Red de Cafés de Juegos de Mesa** (CS2032 - Cloud Computing, UTEC).
